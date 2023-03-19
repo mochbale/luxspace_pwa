@@ -10,7 +10,7 @@ function Browse(){
         <div className="grid grid-rows-2 grid-cols-9 gap-4">
           <div
             className="relative col-span-9 row-span-1 md:col-span-4 card"
-            style={{height: '180px'}}
+            style={{height: "180px"}}
           >
             <div className="card-shadow rounded-xl">
               <img

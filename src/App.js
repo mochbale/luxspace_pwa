@@ -7,9 +7,9 @@ import Browse from "./components/Browse.js";
 function App() {
   return (
     <>
-    <Header />
-    <Hero />
-    <Browse />
+    < Header/>
+    < Hero/>
+    < Browse/>
     </>
   );
 }

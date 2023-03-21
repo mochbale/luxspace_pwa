@@ -1,6 +1,6 @@
 function Hero(){
-    return(
-        <section className="flex items-center hero">
+  return(
+    <section className="flex items-center hero">
       <div
         className="w-full absolute z-20 inset-0 md:relative md:w-1/2 text-center flex flex-col justify-center hero-caption"
       >
@@ -47,6 +47,7 @@ function Hero(){
         </div>
       </div>
     </section>
-    )
+  )
 }
+
 export default Hero;

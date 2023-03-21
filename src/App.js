@@ -5,6 +5,7 @@ import Browse from "./components/Browse.js";
 import Arrived from "./components/Arrived.js";
 import Clients from "./components/Clients.js";
 import AsideMenu from "./components/AsideMenu.js";
+import Footer from "./components/Footer.js";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <Arrived />
     <Clients />
     <AsideMenu />
+    <Footer />
     </>
   );
 }
